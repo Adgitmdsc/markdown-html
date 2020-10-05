@@ -64,5 +64,3 @@ git push origin branch-name
 | Jonah C Rowlinson       | jonahcrowlinson     | 5 OCT 2020               | Created README\.md                    |
 | Ishaan Mehta            | ishaanmehta4        | 5 OCT 2020               | Updated contributor's table in README |
 | Kartik Agarwal          | kartikagarwal9      | 5 OCT 2020               | Updated Readme.md with guidelines     |
-
-
