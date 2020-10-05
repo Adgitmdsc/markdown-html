@@ -20,3 +20,7 @@
 ### Image
 - contain three position : `left`, `right`,`center` to align the image.
 - add borders if you want
+
+### Title
+- Add one class for three font size := `f1` : for big font size
+
