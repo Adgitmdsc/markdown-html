@@ -6,7 +6,39 @@
     <img src="https://i.ibb.co/4FjRdbH/Logo-Sponsors-Light.png" alt="Logo">
   </a>
 </p>
+<p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
+https://hacktoberfest.digitalocean.com/</p>
+
+-----
+
+### Process are as follows :- 
+* Login using github @ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+* Create four valid pull requests (PRs) between 1st - 31st October
+   
+### How to Contribute to this repository
+* Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone the forked repository to your local machine.
+```markdown
+git clone https://github.com/your-username/Portfolio-website-themes.git
+```
+* change the present working directory
+```markdown
+cd Portfolio-website-themes
+```
+* Pick a Portfolio Website or make a new one
+* Make a new branch
+```markdown
+git checkout -b branch-name
+```
+* Make change in the repository with the new branch.
+* push the changes.
+```markdown
+git add .
+git commit -m "Your commit Message"
+git push origin branch-name
+```
+* Make a pull request.
 # Markdown HTML Elements for Github Pages
 
 ## About the Project
@@ -26,6 +58,6 @@ To be continued...
 |-------------------------|---------------------|--------------------------|---------------------------------------|
 | Jonah C Rowlinson       | jonahcrowlinson     | 5 OCT 2020               | Created README\.md                    |
 | Ishaan Mehta            | ishaanmehta4        | 5 OCT 2020               | Updated contributor's table in README |
-|                         |                     |                          |                                       |
+| Kartik Agarwal          | kartikagarwal9      | 5 OCT 2020               | Updated Readme.md with guidelines     |
 
 
