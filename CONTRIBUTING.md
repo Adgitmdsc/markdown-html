@@ -2,6 +2,13 @@
 
 // please complete contributing.md (except for Specification)
 
+# Contributors
+
+<a href="https://github.com/Adgitmdsc/markdown-html/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Adgitmdsc/markdown-html" />
+</a>
+
+
 ## Specification
 
 1. Ensure all classes and ids are named according to styling convention found in [spec.md](./spec.md)
