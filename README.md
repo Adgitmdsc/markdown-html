@@ -55,7 +55,9 @@ git push origin branch-name
 
 ## Contributors
 
-To be continued...
+<a href="https://github.com/Adgitmdsc/markdown-html/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Adgitmdsc/markdown-html" />
+</a>
 
 | **Name of contributor** | **Github username** | **Date of contribution** | **Summary of changes**                |
 |-------------------------|---------------------|--------------------------|---------------------------------------|
