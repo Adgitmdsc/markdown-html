@@ -22,6 +22,10 @@ Specification : [spec.md](./spec.md)
 
 To be continued...
 
-| Username        | Commits |
-|-----------------|---------|
-| jonahcrowlinson | 1       |
+| **Name of contributor** | **Github username** | **Date of contribution** | **Summary of changes**                |
+|-------------------------|---------------------|--------------------------|---------------------------------------|
+| Jonah C Rowlinson       | jonahcrowlinson     | 5 OCT 2020               | Created README\.md                    |
+| Ishaan Mehta            | ishaanmehta4        | 5 OCT 2020               | Updated contributor's table in README |
+|                         |                     |                          |                                       |
+
+
