@@ -11,6 +11,10 @@
 
 ## About the Project
 
+In recent years, there has been an increase in people writing blogs on Github and publishing them through pages. Some use mkdocs, some use jekylls, some simply write on in .md format. Not only for writing blogs, writing technical documentation, and any other purpose, our project aims to create simple buttons and a few other HTML elements for markdown. If you add HTML elements in markdown files, Github Pages can makes them a part of the structure (only pages published on GitHub pages, but not on GitHub). With simple yet creative use of CSS, you can create simple elements following a similar style of language for people to use.
+
+Head over to [here](https://adgitmdsc.github.io/markdown-html/) to look and a few examples.
+
 Demo : [index.md](https://adgitmdsc.github.io/markdown-html/) </br>
 Specification : [spec.md](./spec.md)
 
