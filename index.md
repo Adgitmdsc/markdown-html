@@ -9,6 +9,7 @@
 <br><br>
 <button class="mh-bl">Hello  World</button>
 
+more elements will be added soon, the project is about to be released, so have patience
 
 <br>
 
