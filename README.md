@@ -59,7 +59,3 @@ To be continued...
 | Jonah C Rowlinson       | jonahcrowlinson     | 5 OCT 2020               | Created README\.md                    |
 | Ishaan Mehta            | ishaanmehta4        | 5 OCT 2020               | Updated contributor's table in README |
 | Kartik Agarwal          | kartikagarwal9      | 5 OCT 2020               | Updated Readme.md with guidelines     |
-<a href="https://github.com/remarkablemark">
-  <img src="https://github.com/remarkablemark.png?size=50">
-</a>
-
