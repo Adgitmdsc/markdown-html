@@ -8,3 +8,21 @@
     height : 60px;
     background : lightblue;
 }
+
+.right {
+    margin-left: 70vw;
+}
+
+.profile-card {
+    width: 300px;
+    height: 300px;
+    border: 2px;
+    border-color: black;
+}
+
+.profile-img {
+    width: 40px;
+    height: 40px;
+}
+
+/* add colors and hover option */
